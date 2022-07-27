@@ -1,0 +1,28 @@
+body{
+    font-family: "tahoma";
+    color:#1115ea;
+    background-color: rgb(17, 158, 228);
+     }
+     .back{
+        border: 5px outset rgb(450, 22, 22);
+        border-style: solid;
+        border-width: 10px;
+        padding: 30px;
+      }
+.title{
+    text-align: center;
+}
+.section{
+    
+    height: 130px;
+    color: black;
+}
+.title2{
+    text-align: center;
+}
+.section2{
+    color: rgb(11, 135, 42);
+  }  
+.title3{
+    text-align: center;
+}   
